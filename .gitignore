@@ -2,3 +2,4 @@ node_modules
 downloadWS
 sendUpdate
 build
+.env
