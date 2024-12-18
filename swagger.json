@@ -1,0 +1,12 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "API SuperAr",
+        "description": "objetivos da api",
+        "termsOfService": "#",
+        "contact": {
+          "email": "jeanborgesdares@gmail.com"
+        },
+        "version": "1.0.0"
+      }
+}

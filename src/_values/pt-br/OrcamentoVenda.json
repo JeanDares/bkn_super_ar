@@ -1,0 +1,10 @@
+{
+    "_label": "Orçamento de Venda",
+    "numero": "Número",
+    "variacao": "Variação",
+    "emissao": "Data de Emissão",
+    "dataEntrega": "Data de Entrega",
+    "statusFaturamento": "Status",
+    "_geraPedido":"Gerar Pedido",
+    "_email":"Enviar Email"
+}

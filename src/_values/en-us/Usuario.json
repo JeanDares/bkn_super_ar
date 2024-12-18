@@ -1,0 +1,7 @@
+{
+    "_label": "User",
+    "semAcesso":"No access",
+    "operador":"Operator",
+    "supervisor":"Supervisor",
+    "administrador":"Administrator"
+}

@@ -1,0 +1,10 @@
+{
+    "_table": "estado",
+    "_icon": "airplane-outline",
+    "_selectFields": ["descricao"],
+    "_showFields": ["descricao","sigla"],
+    "_listItem": {
+        "title":"descricao",
+        "subTitle":"sigla"
+    }
+}

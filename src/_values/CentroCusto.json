@@ -1,0 +1,11 @@
+{
+    "_table": "centroCusto",
+    "_icon": "airplane-outline",
+    "_selectFields": ["descricao"],
+    "_showFields": ["descricao"],
+    "_listItem": {
+        "title":"descricao",
+        "subTitle":"classificacao",
+        "fields":["codigo"]
+    }
+} 

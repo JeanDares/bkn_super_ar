@@ -1,0 +1,16 @@
+{
+    "_definition":"Definition",
+    "_get":"Get",
+    "_list":"List",
+    "_listRelation":"Relation List",
+    "_insert":"Insert",
+    "_update":"Update",
+    "_activate":"Activate",
+    "_inactivate":"Inactivate",
+
+    "codigo":"Code",
+    "ativo":"Active",
+    "descricao": "Description",
+    "usuario":"User",
+    "sigla":"Initials"
+}

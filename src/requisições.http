@@ -1,0 +1,7 @@
+//POST http://app.provver.com.br:17890/app/v1/TsmUsuario/GetConfiguracao
+
+
+
+POST http://localhost:3000/v1/app/sendUpdate
+{"dir":"abc"}
+

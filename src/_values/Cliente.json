@@ -1,0 +1,10 @@
+{
+    "_table": "unidadenegocio",
+    "_icon": "location-outline",
+    "_selectFields": ["nome"],
+    "_showFields": ["nome"],
+    "_listItem": [{
+        "id":1,
+        "title":"nome" 
+    }]
+}

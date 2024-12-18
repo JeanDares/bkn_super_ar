@@ -1,0 +1,9 @@
+{
+    "_label": "Cliente",
+    "nome": "Nome",
+    "endereco":"Endereço",
+    "cep": "CEP",
+    "telefone": "Telefone",
+    "enderecosEletronicos": "Endereços Eletrônicos",
+    "cnpjcpf":"CNPJ/CPF"
+}

@@ -1,0 +1,10 @@
+{
+    "_table": "pais",
+    "_icon": "business-outline",
+    "_selectFields": ["descricao"],
+    "_showFields": ["descricao","sigla","codigo"],
+    "_listItem": {
+        "title":"descricao",
+        "subTitle":"sigla"
+    }
+}

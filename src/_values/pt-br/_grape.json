@@ -1,0 +1,28 @@
+{
+    "_definition":"Definição",
+    "_get":"Get",
+    "_list":"Listar",
+    "_listRelation":"Listar Relacionamentos",
+    "_insert":"Incluir",
+    "_update":"Alterar",
+    "_activate":"Ativar",
+    "_inactivate":"Inativar",
+    "_listHeader":"Listar Headers",
+    "_view":"Visualizar",
+
+    "codigo":"Código",
+    "ativo":"Ativo",
+    "liberado":"Liberado",
+    "dataHora":"Data e Hora",
+    "codigoUnidade":"Código da Unidade",
+    "descricao": "Descrição",
+    "usuario":"Usuário",
+    "sigla":"Sigla",
+    "referencia": "Referência",
+    "quantidade": "Quantidade",
+    "valorUnitario": "Valor Unitário",
+    "valorTotal": "Valor Total",
+    "numero":"Número",
+    "emissao":"Emissão"
+
+}

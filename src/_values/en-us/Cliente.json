@@ -1,0 +1,8 @@
+{
+    "_label": "Customer",
+    "nome": "Name",
+    "endereco":"Adress",
+    "cep": "Zip Code",
+    "telefone": "Phone",
+    "enderecosEletronicos": "E-Mail"
+}

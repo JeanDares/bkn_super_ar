@@ -1,0 +1,9 @@
+{
+    "_label": "Usuário",
+    "semAcesso":"Sem acesso",
+    "operador":"Operador",
+    "supervisor":"Supervisor",
+    "administrador":"Administrador",
+    "tipoApontamento":"Tipo de Apontamento",
+    "email":"e-mail"
+}

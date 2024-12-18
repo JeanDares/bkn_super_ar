@@ -1,0 +1,8 @@
+{
+    "_label": "Pedido de Venda",
+    "numero": "Número",
+    "variacao": "Variação",
+    "emissao": "Data de Emissão",
+    "dataEntrega": "Data de Entrega",
+    "statusFaturamento": "Status"
+}

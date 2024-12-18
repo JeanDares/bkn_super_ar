@@ -1,0 +1,11 @@
+{
+    "_table": "usuario",
+    "_icon": "person-outline",
+    "_selectFields": ["usuario"],
+    "_showFields": ["descricao"],
+    "_listItem": {
+        "title":"usuario",
+        "subTitle":"tipoApontamento",
+        "fields":["email"]
+    }
+} 

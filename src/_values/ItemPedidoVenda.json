@@ -1,0 +1,10 @@
+{
+    "_table": "itempedidoorcamentovenda",
+    "_icon": "list-outline",
+    "_selectFields": ["numero"],
+    "_showFields": ["numero"],
+    "_listItem": [{
+        "id":1,
+        "title":"numero" 
+    }]
+}

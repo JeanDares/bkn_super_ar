@@ -1,0 +1,10 @@
+{
+    "_table": "_app_orcamento",
+    "_icon": "newspaper-outline",
+    "_selectFields": ["numero"],
+    "_showFields": ["numero"],
+    "_listItem": [{
+        "id":1,
+        "title":"numero" 
+    }]
+}
